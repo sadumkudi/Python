@@ -8,3 +8,5 @@
 	- download the .whl file
 	and pip(give the full path of pip) install .whl file
 https://pip.pypa.io/en/latest/user_guide/#requirements-files
+
+http://kendyhikaru.blogspot.com/2012/10/python-multithread-to-read-one-file.html
